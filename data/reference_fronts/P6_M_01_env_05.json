@@ -1,0 +1,26 @@
+﻿{
+    "env_id":  5,
+    "front":  [
+                  {
+                      "f1":  22.372,
+                      "f2":  3.0
+                  },
+                  {
+                      "f1":  23.578,
+                      "f2":  3.0
+                  },
+                  {
+                      "f1":  20.921,
+                      "f2":  3.0
+                  },
+                  {
+                      "f1":  23.578,
+                      "f2":  3.0
+                  }
+              ],
+    "instance_id":  "P6_M_01",
+    "metadata":  {
+                     "group":  "Small-M"
+                 },
+    "source":  "offline_archive_union"
+}

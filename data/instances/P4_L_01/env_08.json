@@ -1,0 +1,265 @@
+{
+  "changes": {
+    "edges": [
+      {
+        "active": 0,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r1"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 0,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "s2",
+        "edge_type": "assigned_to",
+        "src_id": "r2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "s3",
+        "edge_type": "assigned_to",
+        "src_id": "r3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 0,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r4"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 0,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      }
+    ],
+    "nodes": [
+      {
+        "current_time": 9.438,
+        "is_executable": 1,
+        "node_id": "B1"
+      },
+      {
+        "current_time": 12.792,
+        "is_executable": 1,
+        "node_id": "B2"
+      },
+      {
+        "current_time": 3.042,
+        "is_executable": 1,
+        "node_id": "B3"
+      },
+      {
+        "current_time": 18.2,
+        "is_executable": 0,
+        "node_id": "B4"
+      },
+      {
+        "current_time": 9.75,
+        "is_executable": 1,
+        "node_id": "B5"
+      },
+      {
+        "current_time": 13.728,
+        "is_executable": 1,
+        "node_id": "B6"
+      },
+      {
+        "current_time": 18.122,
+        "is_executable": 1,
+        "node_id": "B7"
+      },
+      {
+        "available": 0,
+        "node_id": "r1"
+      },
+      {
+        "available": 1,
+        "node_id": "r2"
+      },
+      {
+        "available": 1,
+        "node_id": "r3"
+      },
+      {
+        "available": 0,
+        "node_id": "r4"
+      }
+    ]
+  },
+  "env_id": 8,
+  "instance_id": "P4_L_01",
+  "metadata": {
+    "event_type": "batch_transition",
+    "group": "Small-L",
+    "mean_proc_time": 11.145,
+    "num_active_ops": 6,
+    "num_available_robots": 2,
+    "num_stations": 3,
+    "problem_id": "P4",
+    "scale": "small",
+    "similarity_code": "L",
+    "similarity_level": "Low"
+  }
+}

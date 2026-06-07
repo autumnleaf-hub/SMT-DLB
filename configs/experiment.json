@@ -1,0 +1,95 @@
+﻿{
+  "algorithm": "SMT-DLB-IO",
+  "algorithms": [
+    "SMT-DLB",
+    "CI-DMOEA",
+    "DG-DMOEA",
+    "SET",
+    "KTS-DMOEA",
+    "CBT"
+  ],
+  "artifact_root": "artifacts/io_contract_run",
+  "baseline_algorithms": [
+    "CI-DMOEA",
+    "DG-DMOEA",
+    "SET",
+    "KTS-DMOEA",
+    "CBT"
+  ],
+  "data_root": "data",
+  "detection": {
+    "score_weights": [
+      0.4,
+      0.4,
+      0.2
+    ],
+    "trial_generations": 2,
+    "trial_population": 6
+  },
+  "instance_id": "P1_H_01",
+  "instances": [
+    "P1_H_01",
+    "P1_M_01",
+    "P1_L_01",
+    "P2_H_01",
+    "P2_M_01",
+    "P2_L_01",
+    "P3_H_01",
+    "P3_M_01",
+    "P3_L_01",
+    "P4_H_01",
+    "P4_M_01",
+    "P4_L_01",
+    "P5_H_01",
+    "P5_M_01",
+    "P5_L_01",
+    "P6_H_01",
+    "P6_M_01",
+    "P6_L_01",
+    "P7_H_01",
+    "P7_M_01",
+    "P7_L_01",
+    "P8_H_01",
+    "P8_M_01",
+    "P8_L_01",
+    "P9_H_01",
+    "P9_M_01",
+    "P9_L_01",
+    "P10_H_01",
+    "P10_M_01",
+    "P10_L_01",
+    "P11_H_01",
+    "P11_M_01",
+    "P11_L_01",
+    "P12_H_01",
+    "P12_M_01",
+    "P12_L_01"
+  ],
+  "matrix": {
+    "environments_per_instance": 10,
+    "expected_environment_runs": 17280,
+    "num_instances": 36
+  },
+  "optimizer": {
+    "generations": 3,
+    "population_size": 8
+  },
+  "retrieval": {
+    "lambda_embed": 0.5,
+    "lambda_meta": 0.3,
+    "lambda_reliability": 0.2,
+    "topk": 3
+  },
+  "seed": 1,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "num_robots": 3,
+    "num_stations": 2
+  },
+  "robots": [
+    "r1",
+    "r2",
+    "r3"
+  ],
+  "stations": [
+    "s1",
+    "s2"
+  ]
+}

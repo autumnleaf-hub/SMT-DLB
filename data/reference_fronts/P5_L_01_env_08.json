@@ -1,0 +1,22 @@
+﻿{
+    "env_id":  8,
+    "front":  [
+                  {
+                      "f1":  47.41,
+                      "f2":  1.0
+                  },
+                  {
+                      "f1":  39.83,
+                      "f2":  1.0
+                  },
+                  {
+                      "f1":  50.604,
+                      "f2":  1.0
+                  }
+              ],
+    "instance_id":  "P5_L_01",
+    "metadata":  {
+                     "group":  "Small-L"
+                 },
+    "source":  "offline_archive_union"
+}

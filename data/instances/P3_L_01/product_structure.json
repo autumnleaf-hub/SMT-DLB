@@ -1,0 +1,87 @@
+{
+  "instance_id": "P3_L_01",
+  "metadata": {
+    "group": "Small-L",
+    "problem_id": "P3",
+    "product": "synthetic_ddlb_P3",
+    "scale": "small",
+    "similarity": "Low",
+    "similarity_code": "L"
+  },
+  "or_groups": {
+    "or_group_A1": [
+      "B3",
+      "B4"
+    ],
+    "or_group_A2": [
+      "B5",
+      "B6"
+    ],
+    "or_group_A3": [
+      "B7",
+      "B8"
+    ],
+    "or_group_A4": [
+      "B9",
+      "B10"
+    ]
+  },
+  "precedence": [
+    [
+      "B1",
+      "B2"
+    ],
+    [
+      "B2",
+      "B3"
+    ],
+    [
+      "B2",
+      "B4"
+    ],
+    [
+      "B2",
+      "B5"
+    ],
+    [
+      "B2",
+      "B6"
+    ],
+    [
+      "B1",
+      "B5"
+    ],
+    [
+      "B1",
+      "B6"
+    ],
+    [
+      "B2",
+      "B7"
+    ],
+    [
+      "B2",
+      "B8"
+    ],
+    [
+      "B2",
+      "B9"
+    ],
+    [
+      "B2",
+      "B10"
+    ],
+    [
+      "B1",
+      "B9"
+    ],
+    [
+      "B1",
+      "B10"
+    ]
+  ],
+  "required_operations": [
+    "B1",
+    "B2"
+  ]
+}

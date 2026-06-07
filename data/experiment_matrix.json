@@ -1,0 +1,361 @@
+﻿{
+    "algorithms":  [
+                       "SMT-DLB",
+                       "CI-DMOEA",
+                       "DG-DMOEA",
+                       "SET",
+                       "KTS-DMOEA",
+                       "CBT"
+                   ],
+    "description":  "Full SMT-DLB reproduction matrix from the paper experiment section.",
+    "expected_environment_runs":  17280,
+    "groups":  [
+                   "Large-H",
+                   "Large-L",
+                   "Large-M",
+                   "Small-H",
+                   "Small-L",
+                   "Small-M"
+               ],
+    "instances":  [
+                      {
+                          "group":  "Small-H",
+                          "instance_id":  "P1_H_01",
+                          "problem_id":  "P1",
+                          "problem_index":  1,
+                          "scale":  "small",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Small-M",
+                          "instance_id":  "P1_M_01",
+                          "problem_id":  "P1",
+                          "problem_index":  1,
+                          "scale":  "small",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Small-L",
+                          "instance_id":  "P1_L_01",
+                          "problem_id":  "P1",
+                          "problem_index":  1,
+                          "scale":  "small",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Small-H",
+                          "instance_id":  "P2_H_01",
+                          "problem_id":  "P2",
+                          "problem_index":  2,
+                          "scale":  "small",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Small-M",
+                          "instance_id":  "P2_M_01",
+                          "problem_id":  "P2",
+                          "problem_index":  2,
+                          "scale":  "small",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Small-L",
+                          "instance_id":  "P2_L_01",
+                          "problem_id":  "P2",
+                          "problem_index":  2,
+                          "scale":  "small",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Small-H",
+                          "instance_id":  "P3_H_01",
+                          "problem_id":  "P3",
+                          "problem_index":  3,
+                          "scale":  "small",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Small-M",
+                          "instance_id":  "P3_M_01",
+                          "problem_id":  "P3",
+                          "problem_index":  3,
+                          "scale":  "small",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Small-L",
+                          "instance_id":  "P3_L_01",
+                          "problem_id":  "P3",
+                          "problem_index":  3,
+                          "scale":  "small",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Small-H",
+                          "instance_id":  "P4_H_01",
+                          "problem_id":  "P4",
+                          "problem_index":  4,
+                          "scale":  "small",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Small-M",
+                          "instance_id":  "P4_M_01",
+                          "problem_id":  "P4",
+                          "problem_index":  4,
+                          "scale":  "small",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Small-L",
+                          "instance_id":  "P4_L_01",
+                          "problem_id":  "P4",
+                          "problem_index":  4,
+                          "scale":  "small",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Small-H",
+                          "instance_id":  "P5_H_01",
+                          "problem_id":  "P5",
+                          "problem_index":  5,
+                          "scale":  "small",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Small-M",
+                          "instance_id":  "P5_M_01",
+                          "problem_id":  "P5",
+                          "problem_index":  5,
+                          "scale":  "small",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Small-L",
+                          "instance_id":  "P5_L_01",
+                          "problem_id":  "P5",
+                          "problem_index":  5,
+                          "scale":  "small",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Small-H",
+                          "instance_id":  "P6_H_01",
+                          "problem_id":  "P6",
+                          "problem_index":  6,
+                          "scale":  "small",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Small-M",
+                          "instance_id":  "P6_M_01",
+                          "problem_id":  "P6",
+                          "problem_index":  6,
+                          "scale":  "small",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Small-L",
+                          "instance_id":  "P6_L_01",
+                          "problem_id":  "P6",
+                          "problem_index":  6,
+                          "scale":  "small",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Large-H",
+                          "instance_id":  "P7_H_01",
+                          "problem_id":  "P7",
+                          "problem_index":  7,
+                          "scale":  "large",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Large-M",
+                          "instance_id":  "P7_M_01",
+                          "problem_id":  "P7",
+                          "problem_index":  7,
+                          "scale":  "large",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Large-L",
+                          "instance_id":  "P7_L_01",
+                          "problem_id":  "P7",
+                          "problem_index":  7,
+                          "scale":  "large",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Large-H",
+                          "instance_id":  "P8_H_01",
+                          "problem_id":  "P8",
+                          "problem_index":  8,
+                          "scale":  "large",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Large-M",
+                          "instance_id":  "P8_M_01",
+                          "problem_id":  "P8",
+                          "problem_index":  8,
+                          "scale":  "large",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Large-L",
+                          "instance_id":  "P8_L_01",
+                          "problem_id":  "P8",
+                          "problem_index":  8,
+                          "scale":  "large",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Large-H",
+                          "instance_id":  "P9_H_01",
+                          "problem_id":  "P9",
+                          "problem_index":  9,
+                          "scale":  "large",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Large-M",
+                          "instance_id":  "P9_M_01",
+                          "problem_id":  "P9",
+                          "problem_index":  9,
+                          "scale":  "large",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Large-L",
+                          "instance_id":  "P9_L_01",
+                          "problem_id":  "P9",
+                          "problem_index":  9,
+                          "scale":  "large",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Large-H",
+                          "instance_id":  "P10_H_01",
+                          "problem_id":  "P10",
+                          "problem_index":  10,
+                          "scale":  "large",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Large-M",
+                          "instance_id":  "P10_M_01",
+                          "problem_id":  "P10",
+                          "problem_index":  10,
+                          "scale":  "large",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Large-L",
+                          "instance_id":  "P10_L_01",
+                          "problem_id":  "P10",
+                          "problem_index":  10,
+                          "scale":  "large",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Large-H",
+                          "instance_id":  "P11_H_01",
+                          "problem_id":  "P11",
+                          "problem_index":  11,
+                          "scale":  "large",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Large-M",
+                          "instance_id":  "P11_M_01",
+                          "problem_id":  "P11",
+                          "problem_index":  11,
+                          "scale":  "large",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Large-L",
+                          "instance_id":  "P11_L_01",
+                          "problem_id":  "P11",
+                          "problem_index":  11,
+                          "scale":  "large",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      },
+                      {
+                          "group":  "Large-H",
+                          "instance_id":  "P12_H_01",
+                          "problem_id":  "P12",
+                          "problem_index":  12,
+                          "scale":  "large",
+                          "similarity":  "H",
+                          "similarity_name":  "High"
+                      },
+                      {
+                          "group":  "Large-M",
+                          "instance_id":  "P12_M_01",
+                          "problem_id":  "P12",
+                          "problem_index":  12,
+                          "scale":  "large",
+                          "similarity":  "M",
+                          "similarity_name":  "Medium"
+                      },
+                      {
+                          "group":  "Large-L",
+                          "instance_id":  "P12_L_01",
+                          "problem_id":  "P12",
+                          "problem_index":  12,
+                          "scale":  "large",
+                          "similarity":  "L",
+                          "similarity_name":  "Low"
+                      }
+                  ],
+    "num_algorithms":  6,
+    "num_environments_per_instance":  10,
+    "num_instances":  36,
+    "num_seeds":  8,
+    "seeds":  [
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8
+              ]
+}
+

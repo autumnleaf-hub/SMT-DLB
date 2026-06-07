@@ -1,0 +1,7979 @@
+{
+  "units": [
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.01,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 13.722,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 15.016,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 13.722,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-H",
+        "mean_proc_time": 6.489,
+        "num_active_ops": 6,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        6.0,
+        3.0,
+        2.0,
+        6.489,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P1_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.01,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 15.992,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 18.181,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 15.992,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-M",
+        "mean_proc_time": 7.084,
+        "num_active_ops": 6,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        6.0,
+        3.0,
+        2.0,
+        7.084,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P1_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.01,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 18.612,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 22.524,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 18.978,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P1_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-L",
+        "mean_proc_time": 7.734,
+        "num_active_ops": 6,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        6.0,
+        3.0,
+        2.0,
+        7.734,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P1_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.02,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 13.712,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 15.106,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B5": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 15.106,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B5": "r2",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 13.776,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-H",
+        "mean_proc_time": 7.414,
+        "num_active_ops": 8,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        8.0,
+        4.0,
+        3.0,
+        7.414,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P2_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.02,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 13.949,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 16.336,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B5": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 16.146,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B5": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 13.949,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-M",
+        "mean_proc_time": 7.764,
+        "num_active_ops": 8,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        8.0,
+        4.0,
+        3.0,
+        7.764,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P2_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.02,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 14.166,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 18.064,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B5": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 15.544,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r3",
+            "B5": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 14.166,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P2_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-L",
+        "mean_proc_time": 8.041,
+        "num_active_ops": 8,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        8.0,
+        4.0,
+        3.0,
+        8.041,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P2_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.03,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 27.242,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B2": "r2",
+            "B4": "r1",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B10",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 26.758,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2",
+            "B8": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 27.242,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B10",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 28.868,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-H",
+        "mean_proc_time": 8.729,
+        "num_active_ops": 10,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        10.0,
+        3.0,
+        2.0,
+        8.729,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P3_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.03,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 31.037,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B6": "r2",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B10",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 29.973,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2",
+            "B8": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 31.037,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B10",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 33.973,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-M",
+        "mean_proc_time": 9.359,
+        "num_active_ops": 10,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        10.0,
+        3.0,
+        2.0,
+        9.359,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P3_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.03,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B7": "r1",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 33.328,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B6",
+            "B8",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B6": "r2",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B10",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 34.412,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2",
+            "B8": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B8",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 35.958,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B4",
+            "B5",
+            "B7",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B2": "r2",
+            "B4": "r1",
+            "B5": "r2",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B10",
+            "B4",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 40.832,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P3_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-L",
+        "mean_proc_time": 10.041,
+        "num_active_ops": 10,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        10.0,
+        3.0,
+        2.0,
+        10.041,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P3_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.04,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 15.448,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r1",
+            "B7": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 16.85,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 15.448,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-H",
+        "mean_proc_time": 7.993,
+        "num_active_ops": 7,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        7.0,
+        4.0,
+        3.0,
+        7.993,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P4_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.04,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 17.149,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r1",
+            "B7": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 17.85,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 15.418,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-M",
+        "mean_proc_time": 8.345,
+        "num_active_ops": 7,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        7.0,
+        4.0,
+        3.0,
+        8.345,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P4_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.04,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 19.786,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r1",
+            "B7": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 18.85,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r1",
+            "B6": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 14.872,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P4_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-L",
+        "mean_proc_time": 8.625,
+        "num_active_ops": 7,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        7.0,
+        4.0,
+        3.0,
+        8.625,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P4_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.05,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B4": "r2",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 21.228,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 19.816,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B6": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 19.816,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 22.118,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-H",
+        "mean_proc_time": 6.983,
+        "num_active_ops": 9,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        9.0,
+        3.0,
+        2.0,
+        6.983,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P5_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.05,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B4": "r2",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 25.998,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B7": "r2",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 22.924,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B6": "r2",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 20.699,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 25.998,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-M",
+        "mean_proc_time": 7.534,
+        "num_active_ops": 9,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        9.0,
+        3.0,
+        2.0,
+        7.534,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P5_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.05,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B4": "r2",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 32.492,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B7": "r2",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 25.536,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B6": "r2",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 21.926,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B2": "r2",
+            "B3": "r1",
+            "B5": "r2",
+            "B6": "r2",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 32.492,
+            "f2": 2.0
+          },
+          "solution_id": "sol_P5_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-L",
+        "mean_proc_time": 8.117,
+        "num_active_ops": 9,
+        "num_available_robots": 3,
+        "num_stations": 2,
+        "scale": "small",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        9.0,
+        3.0,
+        2.0,
+        8.117,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P5_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.06,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B10",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 21.984,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B11",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 24.728,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B6": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B10",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 23.174,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B11",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-H"
+          },
+          "objectives": {
+            "f1": 24.728,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-H",
+        "mean_proc_time": 8.085,
+        "num_active_ops": 11,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        11.0,
+        4.0,
+        3.0,
+        8.085,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P6_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.06,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B10",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 21.319,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B11",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 26.048,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B6": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B10",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 23.274,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B11",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-M"
+          },
+          "objectives": {
+            "f1": 26.048,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-M",
+        "mean_proc_time": 8.637,
+        "num_active_ops": 11,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        11.0,
+        4.0,
+        3.0,
+        8.637,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P6_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.06,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B6": "r1",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B10",
+            "B4",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 22.228,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B7",
+            "B9",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B11",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 27.192,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B9",
+            "B10"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B6": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B10",
+            "B5",
+            "B6",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 22.606,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B5",
+            "B6",
+            "B8",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B5": "r3",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B11",
+            "B5",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Small-L"
+          },
+          "objectives": {
+            "f1": 27.192,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P6_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Small-L",
+        "mean_proc_time": 9.219,
+        "num_active_ops": 11,
+        "num_available_robots": 4,
+        "num_stations": 3,
+        "scale": "small",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        11.0,
+        4.0,
+        3.0,
+        9.219,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P6_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.07,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B5": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 27.406,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 25.522,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B11": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 27.406,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 24.192,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-H",
+        "mean_proc_time": 8.816,
+        "num_active_ops": 12,
+        "num_available_robots": 5,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        12.0,
+        5.0,
+        3.0,
+        8.816,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P7_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.07,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B5": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 30.656,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 25.484,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B11": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 30.656,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 22.746,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-M",
+        "mean_proc_time": 9.306,
+        "num_active_ops": 12,
+        "num_available_robots": 5,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        12.0,
+        5.0,
+        3.0,
+        9.306,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P7_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.07,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B5": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 34.814,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 26.656,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B11": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B7": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 34.814,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r2",
+            "B6": "r3",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 22.134,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P7_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-L",
+        "mean_proc_time": 9.79,
+        "num_active_ops": 12,
+        "num_available_robots": 5,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        12.0,
+        5.0,
+        3.0,
+        9.79,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P7_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.08,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B13": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B13",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 27.916,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B12": "r4",
+            "B14": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B14",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 27.588,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B11": "r4",
+            "B14": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B7": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B14",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 27.588,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r4",
+            "B13": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B13",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 25.806,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-H",
+        "mean_proc_time": 9.867,
+        "num_active_ops": 14,
+        "num_available_robots": 6,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        14.0,
+        6.0,
+        4.0,
+        9.867,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P8_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.08,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B13": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B13",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 27.899,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B12": "r4",
+            "B14": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B14",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 27.303,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B11": "r4",
+            "B14": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B7": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B14",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 27.303,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r4",
+            "B13": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B13",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 24.016,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-M",
+        "mean_proc_time": 10.282,
+        "num_active_ops": 14,
+        "num_available_robots": 6,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        14.0,
+        6.0,
+        4.0,
+        10.282,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P8_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.08,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B13": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B13",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 26.706,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B12": "r3",
+            "B14": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B14",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 31.416,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B11": "r3",
+            "B14": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B7": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B14",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 31.416,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r3",
+            "B13": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B6": "r1",
+            "B7": "r2",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B13",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 25.918,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P8_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-L",
+        "mean_proc_time": 10.648,
+        "num_active_ops": 14,
+        "num_available_robots": 6,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        14.0,
+        6.0,
+        4.0,
+        10.648,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P8_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.09,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B5": "r2",
+            "B7": "r3",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B13",
+            "B15",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 39.502,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B12": "r2",
+            "B14": "r3",
+            "B16": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B14",
+            "B16",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 39.762,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11",
+            "B14",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B11": "r2",
+            "B14": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B14",
+            "B15",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 37.944,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r2",
+            "B13": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B7": "r3",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B13",
+            "B15",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 41.03,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-H",
+        "mean_proc_time": 10.945,
+        "num_active_ops": 16,
+        "num_available_robots": 7,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        16.0,
+        7.0,
+        3.0,
+        10.945,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P9_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.09,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B5": "r2",
+            "B7": "r3",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B13",
+            "B15",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 38.012,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B12": "r1",
+            "B14": "r3",
+            "B16": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B14",
+            "B16",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 43.133,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11",
+            "B14",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B11": "r1",
+            "B14": "r3",
+            "B15": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B14",
+            "B15",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 40.467,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r1",
+            "B13": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B7": "r3",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B13",
+            "B15",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 41.029,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-M",
+        "mean_proc_time": 11.341,
+        "num_active_ops": 16,
+        "num_available_robots": 7,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        16.0,
+        7.0,
+        3.0,
+        11.341,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P9_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.09,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B5": "r2",
+            "B7": "r3",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B11",
+            "B13",
+            "B15",
+            "B5",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 41.938,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B12": "r2",
+            "B14": "r1",
+            "B16": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B12",
+            "B14",
+            "B16",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 45.37,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B10",
+            "B11",
+            "B14",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B11": "r2",
+            "B14": "r1",
+            "B15": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B7": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B10",
+            "B11",
+            "B14",
+            "B15",
+            "B6",
+            "B7"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 45.37,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B6",
+            "B7",
+            "B9",
+            "B12",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3",
+            "r7": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B12": "r1",
+            "B13": "r3",
+            "B15": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r1",
+            "B6": "r2",
+            "B7": "r3",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B12",
+            "B13",
+            "B15",
+            "B6",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 41.938,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P9_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-L",
+        "mean_proc_time": 11.687,
+        "num_active_ops": 16,
+        "num_available_robots": 7,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        16.0,
+        7.0,
+        3.0,
+        11.687,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P9_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.1,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B6": "r4",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 23.164,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B13": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B7": "r4",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 24.838,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B12": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B7": "r4",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 23.164,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B13": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r1",
+            "B7": "r4",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 24.838,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-H",
+        "mean_proc_time": 8.43,
+        "num_active_ops": 13,
+        "num_available_robots": 5,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        13.0,
+        5.0,
+        4.0,
+        8.43,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P10_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.1,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B12": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 24.621,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B13": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 27.665,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B12": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B7": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 24.621,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B13": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B7": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 27.665,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-M",
+        "mean_proc_time": 9.176,
+        "num_active_ops": 13,
+        "num_available_robots": 5,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        13.0,
+        5.0,
+        4.0,
+        9.176,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P10_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.1,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r4",
+            "B12": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B6": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 27.406,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B13": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B7": "r1",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 32.472,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B12": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B7": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 27.406,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r4",
+            "B13": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r4",
+            "B7": "r1",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 32.472,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P10_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-L",
+        "mean_proc_time": 10.045,
+        "num_active_ops": 13,
+        "num_available_robots": 5,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        13.0,
+        5.0,
+        4.0,
+        10.045,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P10_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.11,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B12": "r2",
+            "B14": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B14",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 31.378,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r2",
+            "B15": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B15",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 34.434,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B12": "r2",
+            "B15": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B15",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 33.088,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B13": "r2",
+            "B14": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B14",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 31.378,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-H",
+        "mean_proc_time": 9.298,
+        "num_active_ops": 15,
+        "num_available_robots": 6,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        15.0,
+        6.0,
+        3.0,
+        9.298,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P11_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.11,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B12": "r3",
+            "B14": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B6": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B14",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 33.405,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r3",
+            "B15": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r2",
+            "B9": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B15",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 35.004,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B12": "r3",
+            "B15": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B15",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 35.004,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B13": "r3",
+            "B14": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r2",
+            "B8": "r3"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B14",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 31.879,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-M",
+        "mean_proc_time": 9.733,
+        "num_active_ops": 15,
+        "num_available_robots": 6,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        15.0,
+        6.0,
+        3.0,
+        9.733,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P11_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.11,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B12": "r1",
+            "B14": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B6": "r3",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B14",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 37.294,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r2",
+            "B15": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r3",
+            "B9": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B15",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 37.854,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12",
+            "B15"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r2",
+            "B12": "r1",
+            "B15": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r3",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B15",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 38.634,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13",
+            "B14"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s1",
+            "r5": "s2",
+            "r6": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r2",
+            "B13": "r1",
+            "B14": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r3",
+            "B5": "r1",
+            "B7": "r3",
+            "B8": "r2"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B14",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 30.642,
+            "f2": 3.0
+          },
+          "solution_id": "sol_P11_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-L",
+        "mean_proc_time": 10.142,
+        "num_active_ops": 15,
+        "num_available_robots": 6,
+        "num_stations": 3,
+        "scale": "large",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        15.0,
+        6.0,
+        3.0,
+        10.142,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P11_L_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.12,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r4",
+            "B12": "r2",
+            "B14": "r1",
+            "B16": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B6": "r3",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B14",
+            "B16",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 33.286,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_H_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15",
+            "B17"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B13": "r2",
+            "B15": "r3",
+            "B17": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B9": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B15",
+            "B17",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 29.686,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_H_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12",
+            "B15",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r4",
+            "B12": "r2",
+            "B15": "r3",
+            "B16": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B15",
+            "B16",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 32.506,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_H_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r4",
+            "B13": "r2",
+            "B14": "r3",
+            "B16": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B8": "r1"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B14",
+            "B16",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-H"
+          },
+          "objectives": {
+            "f1": 32.506,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_H_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-H",
+        "mean_proc_time": 10.444,
+        "num_active_ops": 17,
+        "num_available_robots": 7,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "High"
+      },
+      "prototype_embedding": [
+        17.0,
+        7.0,
+        4.0,
+        10.444,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P12_H_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.12,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B12": "r2",
+            "B14": "r4",
+            "B16": "r3",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B6": "r3",
+            "B8": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B14",
+            "B16",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 39.101,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_M_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15",
+            "B17"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B13": "r3",
+            "B15": "r2",
+            "B17": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B9": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B15",
+            "B17",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 31.472,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_M_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12",
+            "B15",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r1",
+            "B12": "r3",
+            "B15": "r2",
+            "B16": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B8": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B15",
+            "B16",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 37.226,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_M_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B13": "r3",
+            "B14": "r2",
+            "B16": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B8": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B14",
+            "B16",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-M"
+          },
+          "objectives": {
+            "f1": 37.226,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_M_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-M",
+        "mean_proc_time": 10.936,
+        "num_active_ops": 17,
+        "num_available_robots": 7,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "Medium"
+      },
+      "prototype_embedding": [
+        17.0,
+        7.0,
+        4.0,
+        10.936,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P12_M_01_env_01",
+      "usage_count": 0
+    },
+    {
+      "adapter_params": {
+        "stage_bias": [
+          0.12,
+          0.02,
+          -0.01,
+          0.0
+        ]
+      },
+      "elite_archive": [
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B6",
+            "B8",
+            "B10",
+            "B12",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r1",
+            "B12": "r2",
+            "B14": "r4",
+            "B16": "r2",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B6": "r3",
+            "B8": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B12",
+            "B14",
+            "B16",
+            "B6",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 45.23,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_L_01_env_01_0001",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B9",
+            "B11",
+            "B13",
+            "B15",
+            "B17"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B13": "r1",
+            "B15": "r2",
+            "B17": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B9": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B13",
+            "B15",
+            "B17",
+            "B7",
+            "B9"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 34.428,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_L_01_env_01_0002",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B11",
+            "B12",
+            "B15",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B11": "r3",
+            "B12": "r1",
+            "B15": "r2",
+            "B16": "r1",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B8": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B11",
+            "B12",
+            "B15",
+            "B16",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 41.314,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_L_01_env_01_0003",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        },
+        {
+          "D": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B7",
+            "B8",
+            "B10",
+            "B13",
+            "B14",
+            "B16"
+          ],
+          "RW": {
+            "r1": "s1",
+            "r2": "s2",
+            "r3": "s3",
+            "r4": "s4",
+            "r5": "s1",
+            "r6": "s2",
+            "r7": "s3"
+          },
+          "TR": {
+            "B1": "r1",
+            "B10": "r3",
+            "B13": "r1",
+            "B14": "r2",
+            "B16": "r4",
+            "B2": "r2",
+            "B3": "r3",
+            "B4": "r4",
+            "B5": "r2",
+            "B7": "r3",
+            "B8": "r4"
+          },
+          "TS": [
+            "B1",
+            "B2",
+            "B3",
+            "B4",
+            "B5",
+            "B10",
+            "B13",
+            "B14",
+            "B16",
+            "B7",
+            "B8"
+          ],
+          "feasible": true,
+          "metadata": {
+            "env_id": 1,
+            "group": "Large-L"
+          },
+          "objectives": {
+            "f1": 41.784,
+            "f2": 4.0
+          },
+          "solution_id": "sol_P12_L_01_env_01_0004",
+          "source_tag": "offline_archive",
+          "violation": 0.0
+        }
+      ],
+      "metadata": {
+        "group": "Large-L",
+        "mean_proc_time": 11.426,
+        "num_active_ops": 17,
+        "num_available_robots": 7,
+        "num_stations": 4,
+        "scale": "large",
+        "similarity_level": "Low"
+      },
+      "prototype_embedding": [
+        17.0,
+        7.0,
+        4.0,
+        11.426,
+        0.0
+      ],
+      "reliability": 0.55,
+      "unit_id": "M_P12_L_01_env_01",
+      "usage_count": 0
+    }
+  ],
+  "version": 2
+}

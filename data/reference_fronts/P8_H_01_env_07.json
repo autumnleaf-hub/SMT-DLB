@@ -1,0 +1,26 @@
+﻿{
+    "env_id":  7,
+    "front":  [
+                  {
+                      "f1":  26.796,
+                      "f2":  4.0
+                  },
+                  {
+                      "f1":  29.892,
+                      "f2":  4.0
+                  },
+                  {
+                      "f1":  29.892,
+                      "f2":  4.0
+                  },
+                  {
+                      "f1":  28.058,
+                      "f2":  4.0
+                  }
+              ],
+    "instance_id":  "P8_H_01",
+    "metadata":  {
+                     "group":  "Large-H"
+                 },
+    "source":  "offline_archive_union"
+}

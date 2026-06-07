@@ -1,0 +1,22 @@
+﻿{
+    "env_id":  3,
+    "front":  [
+                  {
+                      "f1":  24.617,
+                      "f2":  2.0
+                  },
+                  {
+                      "f1":  27.283,
+                      "f2":  2.0
+                  },
+                  {
+                      "f1":  24.617,
+                      "f2":  2.0
+                  }
+              ],
+    "instance_id":  "P4_M_01",
+    "metadata":  {
+                     "group":  "Small-M"
+                 },
+    "source":  "offline_archive_union"
+}

@@ -1,0 +1,102 @@
+{
+  "instance_id": "P10_H_01",
+  "metadata": {
+    "group": "Large-H",
+    "problem_id": "P10",
+    "product": "synthetic_ddlb_P10",
+    "scale": "large",
+    "similarity": "High",
+    "similarity_code": "H"
+  },
+  "or_groups": {
+    "or_group_A1": [
+      "B6",
+      "B7"
+    ],
+    "or_group_A2": [
+      "B8",
+      "B9"
+    ],
+    "or_group_A3": [
+      "B10",
+      "B11"
+    ],
+    "or_group_A4": [
+      "B12",
+      "B13"
+    ]
+  },
+  "precedence": [
+    [
+      "B1",
+      "B2"
+    ],
+    [
+      "B2",
+      "B3"
+    ],
+    [
+      "B3",
+      "B4"
+    ],
+    [
+      "B4",
+      "B5"
+    ],
+    [
+      "B5",
+      "B6"
+    ],
+    [
+      "B5",
+      "B7"
+    ],
+    [
+      "B5",
+      "B8"
+    ],
+    [
+      "B5",
+      "B9"
+    ],
+    [
+      "B1",
+      "B8"
+    ],
+    [
+      "B1",
+      "B9"
+    ],
+    [
+      "B5",
+      "B10"
+    ],
+    [
+      "B5",
+      "B11"
+    ],
+    [
+      "B5",
+      "B12"
+    ],
+    [
+      "B5",
+      "B13"
+    ],
+    [
+      "B1",
+      "B12"
+    ],
+    [
+      "B1",
+      "B13"
+    ]
+  ],
+  "required_operations": [
+    "B1",
+    "B2",
+    "B3",
+    "B4",
+    "B5"
+  ]
+}

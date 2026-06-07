@@ -1,0 +1,531 @@
+{
+  "changes": {
+    "edges": [
+      {
+        "active": 1,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B9"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B10"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B11"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B12"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B13"
+      },
+      {
+        "active": 1,
+        "dst_id": "s2",
+        "edge_type": "assigned_to",
+        "src_id": "r2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B9"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B10"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B11"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B12"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B13"
+      },
+      {
+        "active": 1,
+        "dst_id": "s3",
+        "edge_type": "assigned_to",
+        "src_id": "r3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B9"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B10"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B11"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B12"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B13"
+      },
+      {
+        "active": 1,
+        "dst_id": "s4",
+        "edge_type": "assigned_to",
+        "src_id": "r4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B9"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B10"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B11"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B12"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B13"
+      },
+      {
+        "active": 1,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B9"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B10"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B11"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B12"
+      },
+      {
+        "active": 1,
+        "dst_id": "r5",
+        "edge_type": "capable_of",
+        "src_id": "B13"
+      }
+    ],
+    "nodes": [
+      {
+        "node_id": "A4",
+        "state": "damaged"
+      },
+      {
+        "current_time": 4.698,
+        "is_executable": 1,
+        "node_id": "B1"
+      },
+      {
+        "current_time": 5.8,
+        "is_executable": 1,
+        "node_id": "B2"
+      },
+      {
+        "current_time": 4.746,
+        "is_executable": 1,
+        "node_id": "B3"
+      },
+      {
+        "current_time": 5.796,
+        "is_executable": 1,
+        "node_id": "B4"
+      },
+      {
+        "current_time": 6.95,
+        "is_executable": 1,
+        "node_id": "B5"
+      },
+      {
+        "current_time": 8.208,
+        "is_executable": 1,
+        "node_id": "B6"
+      },
+      {
+        "current_time": 9.57,
+        "is_executable": 1,
+        "node_id": "B7"
+      },
+      {
+        "current_time": 7.476,
+        "is_executable": 1,
+        "node_id": "B8"
+      },
+      {
+        "current_time": 8.786,
+        "is_executable": 1,
+        "node_id": "B9"
+      },
+      {
+        "current_time": 10.2,
+        "is_executable": 1,
+        "node_id": "B10"
+      },
+      {
+        "current_time": 11.718,
+        "is_executable": 1,
+        "node_id": "B11"
+      },
+      {
+        "current_time": 13.34,
+        "is_executable": 1,
+        "node_id": "B12"
+      },
+      {
+        "current_time": 10.206,
+        "is_executable": 1,
+        "node_id": "B13"
+      },
+      {
+        "available": 1,
+        "node_id": "r1"
+      },
+      {
+        "available": 1,
+        "node_id": "r2"
+      },
+      {
+        "available": 1,
+        "node_id": "r3"
+      },
+      {
+        "available": 1,
+        "node_id": "r4"
+      },
+      {
+        "available": 1,
+        "node_id": "r5"
+      }
+    ]
+  },
+  "env_id": 2,
+  "instance_id": "P10_H_01",
+  "metadata": {
+    "event_type": "component_condition_change",
+    "group": "Large-H",
+    "mean_proc_time": 8.269,
+    "num_active_ops": 13,
+    "num_available_robots": 5,
+    "num_stations": 4,
+    "problem_id": "P10",
+    "scale": "large",
+    "similarity_code": "H",
+    "similarity_level": "High"
+  }
+}

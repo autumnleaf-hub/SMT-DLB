@@ -1,0 +1,190 @@
+{
+  "changes": {
+    "edges": [
+      {
+        "active": 1,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "s2",
+        "edge_type": "assigned_to",
+        "src_id": "r2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      }
+    ],
+    "nodes": [
+      {
+        "current_time": 4.032,
+        "is_executable": 1,
+        "node_id": "B1"
+      },
+      {
+        "current_time": 5.014,
+        "is_executable": 1,
+        "node_id": "B2"
+      },
+      {
+        "current_time": 6.1,
+        "is_executable": 1,
+        "node_id": "B3"
+      },
+      {
+        "current_time": 7.29,
+        "is_executable": 1,
+        "node_id": "B4"
+      },
+      {
+        "current_time": 8.584,
+        "is_executable": 1,
+        "node_id": "B5"
+      },
+      {
+        "current_time": 6.762,
+        "is_executable": 1,
+        "node_id": "B6"
+      },
+      {
+        "available": 1,
+        "node_id": "r1"
+      },
+      {
+        "available": 1,
+        "node_id": "r2"
+      },
+      {
+        "available": 1,
+        "node_id": "r3"
+      }
+    ]
+  },
+  "env_id": 3,
+  "instance_id": "P1_H_01",
+  "metadata": {
+    "event_type": "component_condition_change",
+    "group": "Small-H",
+    "mean_proc_time": 6.297,
+    "num_active_ops": 6,
+    "num_available_robots": 3,
+    "num_stations": 2,
+    "problem_id": "P1",
+    "scale": "small",
+    "similarity_code": "H",
+    "similarity_level": "High"
+  }
+}

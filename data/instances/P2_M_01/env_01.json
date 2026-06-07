@@ -1,0 +1,294 @@
+{
+  "changes": {
+    "edges": [
+      {
+        "active": 1,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r1",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "s2",
+        "edge_type": "assigned_to",
+        "src_id": "r2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r2",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "s3",
+        "edge_type": "assigned_to",
+        "src_id": "r3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r3",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      },
+      {
+        "active": 1,
+        "dst_id": "s1",
+        "edge_type": "assigned_to",
+        "src_id": "r4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B1"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B2"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B3"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B4"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B5"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B6"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B7"
+      },
+      {
+        "active": 1,
+        "dst_id": "r4",
+        "edge_type": "capable_of",
+        "src_id": "B8"
+      }
+    ],
+    "nodes": [
+      {
+        "current_time": 7.82,
+        "is_executable": 1,
+        "node_id": "B1"
+      },
+      {
+        "current_time": 4.096,
+        "is_executable": 1,
+        "node_id": "B2"
+      },
+      {
+        "current_time": 5.781,
+        "is_executable": 1,
+        "node_id": "B3"
+      },
+      {
+        "current_time": 7.7,
+        "is_executable": 1,
+        "node_id": "B4"
+      },
+      {
+        "current_time": 9.853,
+        "is_executable": 1,
+        "node_id": "B5"
+      },
+      {
+        "current_time": 12.24,
+        "is_executable": 1,
+        "node_id": "B6"
+      },
+      {
+        "current_time": 6.176,
+        "is_executable": 1,
+        "node_id": "B7"
+      },
+      {
+        "current_time": 8.446,
+        "is_executable": 1,
+        "node_id": "B8"
+      },
+      {
+        "available": 1,
+        "node_id": "r1"
+      },
+      {
+        "available": 1,
+        "node_id": "r2"
+      },
+      {
+        "available": 1,
+        "node_id": "r3"
+      },
+      {
+        "available": 1,
+        "node_id": "r4"
+      }
+    ]
+  },
+  "env_id": 1,
+  "instance_id": "P2_M_01",
+  "metadata": {
+    "event_type": "baseline",
+    "group": "Small-M",
+    "mean_proc_time": 7.764,
+    "num_active_ops": 8,
+    "num_available_robots": 4,
+    "num_stations": 3,
+    "problem_id": "P2",
+    "scale": "small",
+    "similarity_code": "M",
+    "similarity_level": "Medium"
+  }
+}

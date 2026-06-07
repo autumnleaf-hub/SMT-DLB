@@ -1,0 +1,23 @@
+﻿{
+    "description":  "Paper result tables and figure source data for the DDLB experiments.",
+    "matrix":  {
+                   "instances":  36,
+                   "envs_per_instance":  10,
+                   "seeds":  8,
+                   "algorithms":  6,
+                   "environment_rows":  17280
+               },
+    "environment_metrics":  "environment_metrics.csv",
+    "tables":  {
+                   "migd":  "tables/migd.csv",
+                   "mhv":  "tables/mhv.csv",
+                   "art":  "tables/art.csv",
+                   "nigd":  "tables/nigd.csv",
+                   "ablation":  "tables/ablation.csv"
+               },
+    "figures":  {
+                    "convergence":  "figures/fig_convergence_data.csv",
+                    "nigd":  "figures/fig_nigd_data.csv",
+                    "tradeoff":  "figures/fig_tradeoff_data.csv"
+                }
+}

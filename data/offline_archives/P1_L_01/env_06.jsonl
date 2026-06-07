@@ -1,0 +1,1 @@
+{"D": ["B1", "B2", "B4", "B6"], "RW": {"r1": "idle", "r2": "s2", "r3": "idle"}, "TR": {"B1": "r2", "B2": "r2", "B4": "r2", "B6": "r2"}, "TS": ["B1", "B2", "B4", "B6"], "feasible": true, "metadata": {"env_id": 6, "group": "Small-L"}, "objectives": {"f1": 35.45, "f2": 1.0}, "solution_id": "sol_P1_L_01_env_06_0001", "source_tag": "offline_archive", "violation": 0.0}
